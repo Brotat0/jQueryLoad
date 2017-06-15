@@ -8,3 +8,4 @@ function proceed () {
     // jQuery load complete, do your magic
     
 }
+
