@@ -1,6 +1,6 @@
-Use this to load jQuery in your JavaScrpit
-
-
+##Use this to load jQuery in your JavaScrpit
+*
+*
 
 
 var jq = document.createElement("script");
